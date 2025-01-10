@@ -5,6 +5,7 @@ Learning Objective:
 - Introduction
 - Theme
 - Primary Goals
+
 Learning Material:
 
 Introduction to Supervised Models - Regression
@@ -12,6 +13,7 @@ Introduction to Supervised Models - Regression
 - What are supervised models?
 - What is regression analysis?
 - Types of Regression Models
+
 Linear Regression
 
 - What is linear regression? (Introduction and Mathematical Formula)
@@ -21,10 +23,12 @@ Linear Regression
 - Simple Implementation
 - Evaluation Metrics for Regression
 - What is Gradient Descent?
+
 Bias Variance Trade-off
 
 - Underfitting vs Overfitting?
-- What is bias variance trade-off?
+- What is the bias-variance trade-off?
+
 Regularization
 
 - What is regularization? Why is it important?
